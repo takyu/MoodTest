@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'MoodTest' target in the 'MoodTest' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
