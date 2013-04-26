@@ -5,6 +5,8 @@ Test code for detecting the collective mood of Minneapolis by mining Twitter fee
 
 Some caveats:
 
+• Requires data for Twitter authorization (consumer key, consumer secret, access token, access token secret) which can be obtained from http://dev.twitter.com.
+
 • Requires oAuthConsumer (https://github.com/jdg/oauthconsumer/)
 
 • Requires liwc2007.txt (http://code.google.com/p/negotiations-ling773/source/browse/trunk/resources/LIWC2007.dic?r=2)
