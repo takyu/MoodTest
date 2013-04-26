@@ -1,3 +1,4 @@
+taken from (http://code.google.com/p/negotiations-ling773/source/browse/trunk/resources/LIWC2007.dic?r=2)
 %
 1	funct
 2	pronoun
